@@ -1,0 +1,1 @@
+# This project contains first Kotlin code examples for learning
